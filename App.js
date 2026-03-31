@@ -130,4 +130,4 @@ const styles = StyleSheet.create({
     elevation: 5
   },
   buttonText: { color: '#fff', fontSize: 18, fontWeight: 'bold' }
-});
+});  
